@@ -1,0 +1,5 @@
+[
+  { "businessName": "Test Bakery 001", "contactEmail": "billing@test-bakery-001.example.com" },
+  { "businessName": "Test Plumbing 002", "contactEmail": "accounts@test-plumbing-002.example.com" },
+  { "businessName": "Test Salon 003", "contactEmail": "owner@test-salon-003.example.com" }
+]
