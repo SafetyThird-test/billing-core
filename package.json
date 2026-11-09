@@ -10,11 +10,11 @@
     "typecheck": "tsc -p . --noEmit"
   },
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^5.3.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@types/express": "^4.17.21",
+    "@types/express": "^5.0.6",
     "@types/node": "^20.14.10",
     "tsx": "^4.16.2",
     "typescript": "^5.5.3",
