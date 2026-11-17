@@ -25,3 +25,5 @@ npm run dev   # http://localhost:3000
 All amounts are stored in cents (ZAR). VAT is 15%.
 
 > All data in this repo is made up. Do not add real customer data, including in tests.
+
+Testing branch protections
