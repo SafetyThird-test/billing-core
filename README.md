@@ -26,4 +26,4 @@ All amounts are stored in cents (ZAR). VAT is 15%.
 
 > All data in this repo is made up. Do not add real customer data, including in tests.
 
-Testing branch protections and now testing commiting to main
+Testing branch protections and now testing being able to only merge with approval
